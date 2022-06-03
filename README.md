@@ -1,5 +1,7 @@
 # flask-restful-crud
 
+Practical project for studies purpose after finishing Udemy course.
+
 ## Setup the project
 
 Init a virtual environment.
